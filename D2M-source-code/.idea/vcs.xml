@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/D2M-MBPO" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/D2M-MBPO/viskit" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ED2-MBPO" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ED2-MBPO/viskit" vcs="Git" />
+  </component>
+</project>
